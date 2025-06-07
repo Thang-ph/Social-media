@@ -1,1 +1,1 @@
-This is a social media website
+This is a social media website and mobile
